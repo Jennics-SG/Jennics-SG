@@ -19,6 +19,8 @@
 - Box2D
 - Java
 - C#
+- MongoDb
+- SQL / SQLITE
 <!--
 **Jennics-SG/Jennics-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
