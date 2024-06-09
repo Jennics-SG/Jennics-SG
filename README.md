@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+#### Jimy Houlbrook: Software Developer
+
 - 🌱 I’m currently learning Unity & C#
 - 💬 Ask me about BangJs
 - 📫 How to reach me: jimyhoulbrook@gmail.com
