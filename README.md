@@ -9,6 +9,8 @@
 
 ### Languages & Technologies
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennics-sg&theme=tokyonight)
+
 - TypeScript // JavaScript
   - PixiJs
   - NodeJs
