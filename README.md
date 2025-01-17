@@ -9,7 +9,7 @@
 
 ### Languages & Technologies
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennics-sg&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennics-sg&hide=ejs,javascript&theme=tokyonight)
 
 - TypeScript // JavaScript
   - PixiJs
