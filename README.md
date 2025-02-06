@@ -2,9 +2,7 @@
 
 #### Jimy Houlbrook: Software Developer
 
-- 🌱 I’m currently learning Unreal
-- 💬 Ask me about BangJs
-- 📫 How to reach me: jimyhoulbrook@gmail.com
+- 🌱 I’m currently learning: How to create APIs with Go
 - ⚡ Fun fact: I have 4 pet snakes
 
 ### Languages & Technologies
@@ -23,6 +21,7 @@
 - C#
 - MongoDb
 - SQL / SQLITE
+- GoLang
 <!--
 **Jennics-SG/Jennics-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
