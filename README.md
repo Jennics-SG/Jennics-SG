@@ -14,13 +14,13 @@
   - NodeJs
   - ExpressJs
   - EJS
-- React
-- Python 2.7 & 3.x
+  - Electron
+- Python 2.X & 3.x
 - Box2D
 - Java
 - C#
 - MongoDb
-- SQL / SQLITE
+- MySQL
 - GoLang
 <!--
 **Jennics-SG/Jennics-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
