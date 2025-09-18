@@ -2,7 +2,7 @@
 
 #### Jimy Houlbrook: Software Developer
 
-- 🌱 I’m currently learning: How to create APIs with Go
+- 🌱 I’m currently learning: How to use GLSL to create shaders with PixiJs
 - ⚡ Fun fact: I have 4 pet snakes
 
 ### Languages & Technologies
