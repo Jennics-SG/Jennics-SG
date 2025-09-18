@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome Traveller 🚀
 
 #### Jimy Houlbrook: Software Developer
 
@@ -16,13 +16,16 @@
 - Backend Development
     - Node.js & Express.js
     - GoLang
-    - Java & C#
+    - Java
 - Databases & Tools
     - MongoDB
     - MySQL
     - Box2D Physics Engine
 - Scripting Utilities
     - Python 2.x & 3.x
+- DevOps
+    - Git
+    - Docker
 <!--
 **Jennics-SG/Jennics-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
