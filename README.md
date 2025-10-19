@@ -15,14 +15,14 @@
     - Electron for Desktop Apps
 - Backend Development
     - Node.js & Express.js
-    - GoLang
-    - Java
 - Databases & Tools
     - MongoDB
     - MySQL
     - Box2D Physics Engine
-- Scripting Utilities
-    - Python 2.x & 3.x
+- Other Technologies
+    - Python 3
+    - Java
+    - Golang
 - DevOps
     - Git
     - Docker
